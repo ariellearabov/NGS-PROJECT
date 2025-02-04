@@ -1,9 +1,0 @@
-Module	Section	Sample Name	Source
-FastQC	all_sections	SRR17133380	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133380_fastqc.zip
-FastQC	all_sections	SRR17133381	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133381_fastqc.zip
-FastQC	all_sections	SRR17133382	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133382_fastqc.zip
-FastQC	all_sections	SRR17133383	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133383_fastqc.zip
-FastQC	all_sections	SRR17133384	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133384_fastqc.zip
-FastQC	all_sections	SRR17133385	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133385_fastqc.zip
-FastQC	all_sections	SRR17133386	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133386_fastqc.zip
-FastQC	all_sections	SRR17133387	/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_qc/SRR17133387_fastqc.zip
