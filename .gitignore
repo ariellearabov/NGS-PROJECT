@@ -5,3 +5,5 @@
 __pycache__
 *.sra
 *.fastq
+mouse_index_standard.tar.xz*
+index.idx
