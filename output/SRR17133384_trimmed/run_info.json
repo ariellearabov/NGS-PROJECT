@@ -1,13 +1,13 @@
 {
 	"n_targets": 126126,
 	"n_bootstraps": 0,
-	"n_processed": 16548363,
-	"n_pseudoaligned": 14957713,
-	"n_unique": 4324851,
-	"p_pseudoaligned": 90.4,
-	"p_unique": 26.1,
+	"n_processed": 20507260,
+	"n_pseudoaligned": 18243489,
+	"n_unique": 5328452,
+	"p_pseudoaligned": 89.0,
+	"p_unique": 26.0,
 	"kallisto_version": "0.50.1",
 	"index_version": 13,
-	"start_time": "Thu Feb  6 12:16:36 2025",
-	"call": "kallisto quant -i index.idx --single -l 49.5829 -s 1.88577 -o output/SRR17133384_trimmed -t 16 ./SRP349257_fastq_trim/SRR17133384_trimmed.fastq"
+	"start_time": "Thu Feb  6 21:10:40 2025",
+	"call": "kallisto quant -i index.idx --single -l 50 -s 0.000001 -o output/SRR17133384_trimmed -t 16 ./SRP349257_fastq_trim/SRR17133384_trimmed.fastq"
 }

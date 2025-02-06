@@ -19,3 +19,13 @@ You will need to submit a single zip file with a main Jupyter notebook with your
 
 
 ### Good luck!
+
+
+
+Repo contains:
+
+1. output - folder of output of calling calisto
+2. SRP349257_qc - quality control reports per seq and combined
+3. SRP349257_trimmed_qc - quality control reports per seq and combined for trimmed reads
+4. GSE190189_Gene_read_counts_matrix.txt - expression matrix from the paper (can be deleted)
+5. template.ipynb - the notebook which runs the analysis

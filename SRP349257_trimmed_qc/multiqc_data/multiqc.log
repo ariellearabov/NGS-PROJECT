@@ -1,2 +1,2 @@
-[2025-02-06 12:08:05,946] multiqc.core.file_search                           [INFO   ]  Search path: /sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc
-[2025-02-06 12:08:06,725] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
+[2025-02-06 21:01:11,082] multiqc.core.file_search                           [INFO   ]  Search path: /sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc
+[2025-02-06 21:01:11,746] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
