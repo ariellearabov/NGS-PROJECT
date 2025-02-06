@@ -1,0 +1,13 @@
+{
+	"n_targets": 126126,
+	"n_bootstraps": 0,
+	"n_processed": 17790518,
+	"n_pseudoaligned": 16220573,
+	"n_unique": 4683155,
+	"p_pseudoaligned": 91.2,
+	"p_unique": 26.3,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Thu Feb  6 12:20:19 2025",
+	"call": "kallisto quant -i index.idx --single -l 49.5641 -s 1.92842 -o output/SRR17133386_trimmed -t 16 ./SRP349257_fastq_trim/SRR17133386_trimmed.fastq"
+}
