@@ -8,6 +8,6 @@
 	"p_unique": 24.9,
 	"kallisto_version": "0.50.1",
 	"index_version": 13,
-	"start_time": "Thu Mar  6 18:42:51 2025",
+	"start_time": "Sun Mar 23 14:35:14 2025",
 	"call": "kallisto quant -i index.idx --single -l 50 -s 0.000001 -o output/SRR17133380_trimmed -t 16 ./SRP349257_fastq_trim/SRR17133380_trimmed.fastq"
 }

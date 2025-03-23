@@ -6,10 +6,10 @@
                 "SRR17133384": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133384_trimmed_fastqc.zip",
                 "SRR17133380": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133380_trimmed_fastqc.zip",
                 "SRR17133381": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133381_trimmed_fastqc.zip",
-                "SRR17133386": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133386_trimmed_fastqc.zip",
                 "SRR17133387": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133387_trimmed_fastqc.zip",
+                "SRR17133382": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133382_trimmed_fastqc.zip",
                 "SRR17133385": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133385_trimmed_fastqc.zip",
-                "SRR17133382": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133382_trimmed_fastqc.zip"
+                "SRR17133386": "/sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc/SRR17133386_trimmed_fastqc.zip"
             }
         }
     },
@@ -47,28 +47,12 @@
                 "percent_duplicates": 52.5125740320792,
                 "percent_fails": 20.0
             },
-            "SRR17133386": {
-                "total_sequences": 22540553.0,
-                "percent_gc": 49.0,
-                "avg_sequence_length": 50.0,
-                "median_sequence_length": 50,
-                "percent_duplicates": 51.827480600794715,
-                "percent_fails": 20.0
-            },
             "SRR17133387": {
                 "total_sequences": 22557836.0,
                 "percent_gc": 49.0,
                 "avg_sequence_length": 50.0,
                 "median_sequence_length": 50,
                 "percent_duplicates": 50.69017572993733,
-                "percent_fails": 20.0
-            },
-            "SRR17133385": {
-                "total_sequences": 22987130.0,
-                "percent_gc": 49.0,
-                "avg_sequence_length": 50.0,
-                "median_sequence_length": 50,
-                "percent_duplicates": 53.380020681829606,
                 "percent_fails": 20.0
             },
             "SRR17133382": {
@@ -78,6 +62,22 @@
                 "median_sequence_length": 50,
                 "percent_duplicates": 48.964348127219125,
                 "percent_fails": 10.0
+            },
+            "SRR17133385": {
+                "total_sequences": 22987130.0,
+                "percent_gc": 49.0,
+                "avg_sequence_length": 50.0,
+                "median_sequence_length": 50,
+                "percent_duplicates": 53.380020681829606,
+                "percent_fails": 20.0
+            },
+            "SRR17133386": {
+                "total_sequences": 22540553.0,
+                "percent_gc": 49.0,
+                "avg_sequence_length": 50.0,
+                "median_sequence_length": 50,
+                "percent_duplicates": 51.827480600794715,
+                "percent_fails": 20.0
             }
         }
     ],
@@ -156,7 +156,7 @@
             }
         }
     ],
-    "report_multiqc_command": "/sternadi/home/volume1/tomer/miniconda3/envs/Arielle_Arabov_Tomer_Oron/bin/multiqc SRP349257_trimmed_qc/ -o SRP349257_trimmed_qc/",
+    "report_multiqc_command": "/sternadi/home/volume1/tomer/miniconda3/envs/NGS/bin/multiqc SRP349257_trimmed_qc/ -o SRP349257_trimmed_qc/",
     "report_plot_data": {
         "fastqc_sequence_counts_plot": {
             "id": "fastqc_sequence_counts_plot",
@@ -2437,10 +2437,10 @@
                     "SRR17133384": "#5cb85c",
                     "SRR17133380": "#5cb85c",
                     "SRR17133381": "#5cb85c",
-                    "SRR17133386": "#5cb85c",
                     "SRR17133387": "#5cb85c",
+                    "SRR17133382": "#5cb85c",
                     "SRR17133385": "#5cb85c",
-                    "SRR17133382": "#5cb85c"
+                    "SRR17133386": "#5cb85c"
                 }
             },
             "add_log_tab": false,
@@ -3149,10 +3149,10 @@
                     "SRR17133384": "#5cb85c",
                     "SRR17133380": "#5cb85c",
                     "SRR17133381": "#5cb85c",
-                    "SRR17133386": "#5cb85c",
                     "SRR17133387": "#5cb85c",
+                    "SRR17133382": "#5cb85c",
                     "SRR17133385": "#5cb85c",
-                    "SRR17133382": "#5cb85c"
+                    "SRR17133386": "#5cb85c"
                 }
             },
             "add_log_tab": false,
@@ -10097,10 +10097,10 @@
                     "SRR17133384": "#5cb85c",
                     "SRR17133380": "#5cb85c",
                     "SRR17133381": "#5cb85c",
-                    "SRR17133386": "#5cb85c",
                     "SRR17133387": "#5cb85c",
+                    "SRR17133382": "#5cb85c",
                     "SRR17133385": "#5cb85c",
-                    "SRR17133382": "#5cb85c"
+                    "SRR17133386": "#5cb85c"
                 }
             },
             "add_log_tab": false,
@@ -12129,10 +12129,10 @@
                     "SRR17133384": "#5cb85c",
                     "SRR17133380": "#5cb85c",
                     "SRR17133381": "#5cb85c",
-                    "SRR17133386": "#5cb85c",
                     "SRR17133387": "#5cb85c",
+                    "SRR17133382": "#5cb85c",
                     "SRR17133385": "#5cb85c",
-                    "SRR17133382": "#5cb85c"
+                    "SRR17133386": "#5cb85c"
                 }
             },
             "add_log_tab": false,
@@ -12966,10 +12966,10 @@
                     "SRR17133384": "#f0ad4e",
                     "SRR17133380": "#d9534f",
                     "SRR17133381": "#d9534f",
-                    "SRR17133386": "#d9534f",
                     "SRR17133387": "#d9534f",
+                    "SRR17133382": "#f0ad4e",
                     "SRR17133385": "#d9534f",
-                    "SRR17133382": "#f0ad4e"
+                    "SRR17133386": "#d9534f"
                 }
             },
             "add_log_tab": false,
@@ -15034,60 +15034,60 @@
                             "SRR17133384": 49.48566047245164,
                             "SRR17133380": 53.177909737311715,
                             "SRR17133381": 52.5125740320792,
-                            "SRR17133386": 51.827480600794715,
                             "SRR17133387": 50.69017572993733,
+                            "SRR17133382": 48.964348127219125,
                             "SRR17133385": 53.380020681829606,
-                            "SRR17133382": 48.964348127219125
+                            "SRR17133386": 51.827480600794715
                         },
                         "fastqc-percent_gc": {
                             "SRR17133383": 48.0,
                             "SRR17133384": 49.0,
                             "SRR17133380": 49.0,
                             "SRR17133381": 49.0,
-                            "SRR17133386": 49.0,
                             "SRR17133387": 49.0,
+                            "SRR17133382": 49.0,
                             "SRR17133385": 49.0,
-                            "SRR17133382": 49.0
+                            "SRR17133386": 49.0
                         },
                         "fastqc-avg_sequence_length": {
                             "SRR17133383": 50.0,
                             "SRR17133384": 50.0,
                             "SRR17133380": 50.0,
                             "SRR17133381": 50.0,
-                            "SRR17133386": 50.0,
                             "SRR17133387": 50.0,
+                            "SRR17133382": 50.0,
                             "SRR17133385": 50.0,
-                            "SRR17133382": 50.0
+                            "SRR17133386": 50.0
                         },
                         "fastqc-median_sequence_length": {
                             "SRR17133383": 50,
                             "SRR17133384": 50,
                             "SRR17133380": 50,
                             "SRR17133381": 50,
-                            "SRR17133386": 50,
                             "SRR17133387": 50,
+                            "SRR17133382": 50,
                             "SRR17133385": 50,
-                            "SRR17133382": 50
+                            "SRR17133386": 50
                         },
                         "fastqc-percent_fails": {
                             "SRR17133383": 10.0,
                             "SRR17133384": 10.0,
                             "SRR17133380": 20.0,
                             "SRR17133381": 20.0,
-                            "SRR17133386": 20.0,
                             "SRR17133387": 20.0,
+                            "SRR17133382": 10.0,
                             "SRR17133385": 20.0,
-                            "SRR17133382": 10.0
+                            "SRR17133386": 20.0
                         },
                         "fastqc-total_sequences": {
                             "SRR17133383": 17.840373,
                             "SRR17133384": 20.50726,
                             "SRR17133380": 22.518020999999997,
                             "SRR17133381": 22.767744999999998,
-                            "SRR17133386": 22.540553,
                             "SRR17133387": 22.557835999999998,
+                            "SRR17133382": 22.951456999999998,
                             "SRR17133385": 22.98713,
-                            "SRR17133382": 22.951456999999998
+                            "SRR17133386": 22.540553
                         }
                     },
                     "scatter_value_by_sample_by_metric": {
@@ -15580,27 +15580,6 @@
                                             }
                                         }
                                     ],
-                                    "SRR17133386": [
-                                        {
-                                            "sample": "SRR17133386",
-                                            "raw_data": {
-                                                "total_sequences": 22.540553,
-                                                "percent_gc": 49.0,
-                                                "avg_sequence_length": 50.0,
-                                                "median_sequence_length": 50,
-                                                "percent_duplicates": 51.827480600794715,
-                                                "percent_fails": 20.0
-                                            },
-                                            "formatted_data": {
-                                                "total_sequences": "22.5",
-                                                "percent_gc": "49.0",
-                                                "avg_sequence_length": "50",
-                                                "median_sequence_length": "50",
-                                                "percent_duplicates": "51.8",
-                                                "percent_fails": "20"
-                                            }
-                                        }
-                                    ],
                                     "SRR17133387": [
                                         {
                                             "sample": "SRR17133387",
@@ -15619,6 +15598,27 @@
                                                 "median_sequence_length": "50",
                                                 "percent_duplicates": "50.7",
                                                 "percent_fails": "20"
+                                            }
+                                        }
+                                    ],
+                                    "SRR17133382": [
+                                        {
+                                            "sample": "SRR17133382",
+                                            "raw_data": {
+                                                "total_sequences": 22.951456999999998,
+                                                "percent_gc": 49.0,
+                                                "avg_sequence_length": 50.0,
+                                                "median_sequence_length": 50,
+                                                "percent_duplicates": 48.964348127219125,
+                                                "percent_fails": 10.0
+                                            },
+                                            "formatted_data": {
+                                                "total_sequences": "23.0",
+                                                "percent_gc": "49.0",
+                                                "avg_sequence_length": "50",
+                                                "median_sequence_length": "50",
+                                                "percent_duplicates": "49.0",
+                                                "percent_fails": "10"
                                             }
                                         }
                                     ],
@@ -15643,24 +15643,24 @@
                                             }
                                         }
                                     ],
-                                    "SRR17133382": [
+                                    "SRR17133386": [
                                         {
-                                            "sample": "SRR17133382",
+                                            "sample": "SRR17133386",
                                             "raw_data": {
-                                                "total_sequences": 22.951456999999998,
+                                                "total_sequences": 22.540553,
                                                 "percent_gc": 49.0,
                                                 "avg_sequence_length": 50.0,
                                                 "median_sequence_length": 50,
-                                                "percent_duplicates": 48.964348127219125,
-                                                "percent_fails": 10.0
+                                                "percent_duplicates": 51.827480600794715,
+                                                "percent_fails": 20.0
                                             },
                                             "formatted_data": {
-                                                "total_sequences": "23.0",
+                                                "total_sequences": "22.5",
                                                 "percent_gc": "49.0",
                                                 "avg_sequence_length": "50",
                                                 "median_sequence_length": "50",
-                                                "percent_duplicates": "49.0",
-                                                "percent_fails": "10"
+                                                "percent_duplicates": "51.8",
+                                                "percent_fails": "20"
                                             }
                                         }
                                     ]
@@ -15803,7 +15803,7 @@
             "table_anchor": "general_stats_table_table"
         }
     },
-    "report_creation_date": "2025-03-06, 18:31 IST",
+    "report_creation_date": "2025-03-23, 14:33 IST",
     "config_analysis_dir": [
         "SRP349257_trimmed_qc/"
     ],
@@ -15811,7 +15811,7 @@
     "config_intro_text": null,
     "config_report_comment": null,
     "config_report_header_info": null,
-    "config_script_path": "/sternadi/home/volume1/tomer/miniconda3/envs/Arielle_Arabov_Tomer_Oron/lib/python3.10/site-packages/multiqc",
+    "config_script_path": "/sternadi/home/volume1/tomer/miniconda3/envs/NGS/lib/python3.10/site-packages/multiqc",
     "config_short_version": "1.27.1",
     "config_subtitle": null,
     "config_title": null,
@@ -15914,29 +15914,6 @@
                 "overrepresented_sequences": "pass",
                 "adapter_content": "pass"
             },
-            "SRR17133386": {
-                "Filename": "SRR17133386_trimmed.fastq",
-                "File type": "Conventional base calls",
-                "Encoding": "Sanger / Illumina 1.9",
-                "Total Sequences": 22540553.0,
-                "Total Bases": "1.1 Gbp",
-                "Sequences flagged as poor quality": 0.0,
-                "Sequence length": 50.0,
-                "%GC": 49.0,
-                "total_deduplicated_percentage": 48.172519399205285,
-                "avg_sequence_length": 50.0,
-                "median_sequence_length": 50,
-                "basic_statistics": "pass",
-                "per_base_sequence_quality": "pass",
-                "per_sequence_quality_scores": "pass",
-                "per_base_sequence_content": "fail",
-                "per_sequence_gc_content": "pass",
-                "per_base_n_content": "pass",
-                "sequence_length_distribution": "pass",
-                "sequence_duplication_levels": "fail",
-                "overrepresented_sequences": "pass",
-                "adapter_content": "pass"
-            },
             "SRR17133387": {
                 "Filename": "SRR17133387_trimmed.fastq",
                 "File type": "Conventional base calls",
@@ -15947,29 +15924,6 @@
                 "Sequence length": 50.0,
                 "%GC": 49.0,
                 "total_deduplicated_percentage": 49.30982427006267,
-                "avg_sequence_length": 50.0,
-                "median_sequence_length": 50,
-                "basic_statistics": "pass",
-                "per_base_sequence_quality": "pass",
-                "per_sequence_quality_scores": "pass",
-                "per_base_sequence_content": "fail",
-                "per_sequence_gc_content": "pass",
-                "per_base_n_content": "pass",
-                "sequence_length_distribution": "pass",
-                "sequence_duplication_levels": "fail",
-                "overrepresented_sequences": "pass",
-                "adapter_content": "pass"
-            },
-            "SRR17133385": {
-                "Filename": "SRR17133385_trimmed.fastq",
-                "File type": "Conventional base calls",
-                "Encoding": "Sanger / Illumina 1.9",
-                "Total Sequences": 22987130.0,
-                "Total Bases": "1.1 Gbp",
-                "Sequences flagged as poor quality": 0.0,
-                "Sequence length": 50.0,
-                "%GC": 49.0,
-                "total_deduplicated_percentage": 46.619979318170394,
                 "avg_sequence_length": 50.0,
                 "median_sequence_length": 50,
                 "basic_statistics": "pass",
@@ -16003,6 +15957,52 @@
                 "per_base_n_content": "pass",
                 "sequence_length_distribution": "pass",
                 "sequence_duplication_levels": "warn",
+                "overrepresented_sequences": "pass",
+                "adapter_content": "pass"
+            },
+            "SRR17133385": {
+                "Filename": "SRR17133385_trimmed.fastq",
+                "File type": "Conventional base calls",
+                "Encoding": "Sanger / Illumina 1.9",
+                "Total Sequences": 22987130.0,
+                "Total Bases": "1.1 Gbp",
+                "Sequences flagged as poor quality": 0.0,
+                "Sequence length": 50.0,
+                "%GC": 49.0,
+                "total_deduplicated_percentage": 46.619979318170394,
+                "avg_sequence_length": 50.0,
+                "median_sequence_length": 50,
+                "basic_statistics": "pass",
+                "per_base_sequence_quality": "pass",
+                "per_sequence_quality_scores": "pass",
+                "per_base_sequence_content": "fail",
+                "per_sequence_gc_content": "pass",
+                "per_base_n_content": "pass",
+                "sequence_length_distribution": "pass",
+                "sequence_duplication_levels": "fail",
+                "overrepresented_sequences": "pass",
+                "adapter_content": "pass"
+            },
+            "SRR17133386": {
+                "Filename": "SRR17133386_trimmed.fastq",
+                "File type": "Conventional base calls",
+                "Encoding": "Sanger / Illumina 1.9",
+                "Total Sequences": 22540553.0,
+                "Total Bases": "1.1 Gbp",
+                "Sequences flagged as poor quality": 0.0,
+                "Sequence length": 50.0,
+                "%GC": 49.0,
+                "total_deduplicated_percentage": 48.172519399205285,
+                "avg_sequence_length": 50.0,
+                "median_sequence_length": 50,
+                "basic_statistics": "pass",
+                "per_base_sequence_quality": "pass",
+                "per_sequence_quality_scores": "pass",
+                "per_base_sequence_content": "fail",
+                "per_sequence_gc_content": "pass",
+                "per_base_n_content": "pass",
+                "sequence_length_distribution": "pass",
+                "sequence_duplication_levels": "fail",
                 "overrepresented_sequences": "pass",
                 "adapter_content": "pass"
             }
@@ -16040,14 +16040,6 @@
                 "fastqc-percent_fails": 20.0,
                 "fastqc-total_sequences": 22.767744999999998
             },
-            "SRR17133386": {
-                "fastqc-percent_duplicates": 51.827480600794715,
-                "fastqc-percent_gc": 49.0,
-                "fastqc-avg_sequence_length": 50.0,
-                "fastqc-median_sequence_length": 50,
-                "fastqc-percent_fails": 20.0,
-                "fastqc-total_sequences": 22.540553
-            },
             "SRR17133387": {
                 "fastqc-percent_duplicates": 50.69017572993733,
                 "fastqc-percent_gc": 49.0,
@@ -16055,6 +16047,14 @@
                 "fastqc-median_sequence_length": 50,
                 "fastqc-percent_fails": 20.0,
                 "fastqc-total_sequences": 22.557835999999998
+            },
+            "SRR17133382": {
+                "fastqc-percent_duplicates": 48.964348127219125,
+                "fastqc-percent_gc": 49.0,
+                "fastqc-avg_sequence_length": 50.0,
+                "fastqc-median_sequence_length": 50,
+                "fastqc-percent_fails": 10.0,
+                "fastqc-total_sequences": 22.951456999999998
             },
             "SRR17133385": {
                 "fastqc-percent_duplicates": 53.380020681829606,
@@ -16064,13 +16064,13 @@
                 "fastqc-percent_fails": 20.0,
                 "fastqc-total_sequences": 22.98713
             },
-            "SRR17133382": {
-                "fastqc-percent_duplicates": 48.964348127219125,
+            "SRR17133386": {
+                "fastqc-percent_duplicates": 51.827480600794715,
                 "fastqc-percent_gc": 49.0,
                 "fastqc-avg_sequence_length": 50.0,
                 "fastqc-median_sequence_length": 50,
-                "fastqc-percent_fails": 10.0,
-                "fastqc-total_sequences": 22.951456999999998
+                "fastqc-percent_fails": 20.0,
+                "fastqc-total_sequences": 22.540553
             }
         }
     }

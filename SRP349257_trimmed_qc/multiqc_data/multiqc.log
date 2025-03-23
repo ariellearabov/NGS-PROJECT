@@ -1,2 +1,3 @@
-[2025-03-06 18:31:40,819] multiqc.core.file_search                           [INFO   ]  Search path: /sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc
-[2025-03-06 18:31:41,060] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
+[2025-03-23 14:33:17,746] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.28 now available!
+[2025-03-23 14:33:17,747] multiqc.core.file_search                           [INFO   ]  Search path: /sternadi/home/volume1/tomer/NGS/NGS-PROJECT/SRP349257_trimmed_qc
+[2025-03-23 14:33:18,020] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
